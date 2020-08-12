@@ -1,0 +1,6 @@
+(defun c:HELLO()
+  (print "Hello World")
+
+
+)
+(princ)
