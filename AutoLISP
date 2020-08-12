@@ -1,6 +1,10 @@
-(defun c:HELLO()
-  (print "Hello World")
+;; Simple program that prints Hello World to the command
+;; line when the user types the command HELLO
 
+(defun c:HELLO()
+  ;;This is how to print text to the command Line in AutoCAD
+  (print "Hello World")
+  
 
 )
 (princ)
